@@ -7,7 +7,7 @@ export default function Banner() {
           <div className="personal-info">
             <p className="profile">Web Developer </p>
             <p className="msg">Hello World, I am </p>
-            <p className="name">Gurjot Singh</p>
+            <p className="name">Sahil Rana</p>
           </div>
         </div>
 
