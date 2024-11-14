@@ -5,7 +5,7 @@ export default function Navbar() {
       <nav className="navbar navbar-expand-lg ">
         <div className="container-fluid">
           <a className="name" href="#">
-            Gurjot Singh
+            Sahil Rana
           </a>
           <button
             class="navbar-toggler"
